@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+:root {
+    --fs-sm: 14px;
+    --fs-md: 18px;
+    --fs-lg: 22px;
+    --fs-xl: 28px;
+    --fs-2xl: 36px;
+    --fs-3xl: 48px;
+    --fs-4xl: 96px;
+    /* font-weight: ; */
+    --fw-sm: 400;
+    --fw-md: 600;
+    --fw-lg: 700;
+    /* font-family: ; */
+    --font-main: 'Poppins', sans-serif;
+    /* color */
+    --color-main: #FFFFFF;
+    --color-primary: #B8B8B8;
+    --color-secandary: #F06500;
+    --color-tertiary: #0C0B0B;
+    --color-quinary: #151313;
+}
+/* font-size  */
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+.fs-2xl {
+    font-size: var(--fs-2xl);
+}
+.fs-3xl {
+    font-size: var(--fs-3xl);
+}
+.fs-4xl {
+    font-size: var(--fs-4xl);
+}
+
+/* font weight class */
+.fw-sm {
+    font-weight: var(--fw-sm);
+}
+
+.fw-md {
+    font-weight: var(--fw-md);
+}
+
+.fw-lg {
+    font-weight: var(--fw-lg);
+}
+
+/* color */
+.color-main {
+    color: var(--color-main);
+}
+
+.color-primary {
+    color: var(--color-primary);
+}
+
+.color-secandary {
+    color: var(--color-secandary);
+}
+.color-tertiary {
+    color: var(--color-tertiary);
+}
+.color-quinary {
+    color: var(--color-quinary);
+}
+
+/* font-family */
+.font-main {
+    font-family: var(--font-main);
+}
